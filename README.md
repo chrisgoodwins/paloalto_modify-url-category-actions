@@ -1,2 +1,2 @@
 # paloalto_modify-url-category-actions
-Modify actions in bulk for URL categories across multiple URL filtering profiles
+This script allows a user to modify actions in bulk for any predefined or custom URL category across multiple URL filtering profiles within a device group on Panorama
