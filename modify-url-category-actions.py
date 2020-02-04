@@ -2,7 +2,7 @@
 #
 # Script:       modify-url-category-actions.py
 #
-# Author:       Chris Goodwin <cgoodwin@paloaltonetworks.com>
+# Author:       Chris Goodwin <chrisgoodwins@gmail.com>
 #
 # Description:  This script allows a user to modify actions in bulk for any
 #               predefined or custom URL category across multiple URL filtering
